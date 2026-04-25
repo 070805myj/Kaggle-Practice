@@ -38,3 +38,6 @@ TotRmsAbvGrd: 总房间数（不含浴室）
 📂 文件说明
 notebook.ipynb: 包含所有分析、绘图和建模过程的 Jupyter Notebook。
 submission.csv: 最终生成的预测结果文件，可直接提交至 Kaggle。
+
+kaggle训练集地址：/kaggle/input/home-data-for-ml-course/train.csv
+      测试集地址：/kaggle/input/home-data-for-ml-course/test.csv
